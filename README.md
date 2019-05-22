@@ -31,6 +31,6 @@ See the [releases pages](https://github.com/TiVP/MultiTelegram/releases) for a h
 
 ## License
 
-[GPLv3]().
+[GPLv3](https://github.com/TiVP/MultiTelegram/blob/master/LICENSE).
         
 
