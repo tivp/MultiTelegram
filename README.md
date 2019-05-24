@@ -7,8 +7,7 @@
       width="70%">
 </h1>
 <p align="center">
-    <a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/gFP3q1p.png" height="auto"
-      width="14%"></a>    <a href="https://www.paypal.me/tivp"><img alt="Donate" src="https://i.imgur.com/m3REUoP.png" height="auto"
+    <a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/9xIh9jZ.png" height="32px" width="123px"></a>    <a href="https://www.paypal.me/tivp"><img alt="Donate" src="https://i.imgur.com/m3REUoP.png" height="auto"
       width="14%"></a>  
 ##
 <p align="center"><a href="https://multitelegram.blogspot.com/"><img alt="Site" src="https://i.imgur.com/ObSrXjX.png" height="auto" width="16%"></a></p>
