@@ -4,10 +4,9 @@
 <p align="center">
 <img height="auto" width="64%" src="https://user-images.githubusercontent.com/50901220/58152248-0c6e1880-7c3a-11e9-9251-5c37ffbe02e7.png">
 
-
 <a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/Uf73QMd.png"></a>
 <img height="auto" width="3%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQin1SJa4g7g2SqNDy3JF5BQSbQNyHR5_1WMqPE06GdaXbMBuJG">
-<a href="https://www.paypal.me/tivp"><img alt="Donate" src="https://i.imgur.com/WAn4bbI.png"></a>
+<a href="https://www.paypal.me/tivp"><img alt="Donate" src="https://i.imgur.com/WAn4bbI.png"></a></p>
 	
 ## Release History
 
