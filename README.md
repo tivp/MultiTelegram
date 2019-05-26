@@ -7,7 +7,7 @@
       width="70%">
 </h1>
 <p align="center">
-<a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/L8OXa3A.png"></a>
+<a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/Uf73QMd.png"></a>
 <a href="https://www.paypal.me/tivp"><img alt="Donate" src="https://i.imgur.com/PfKLbZA.png"></a>
 	
 ## Release History
