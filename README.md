@@ -1,5 +1,5 @@
 # MultiTelegram
-* Multiple Accounts in PC Windows Telegram Desktop
+* Telegram with multi account support. Use Telegram Desktop for Windows with different users.
 <h1 align="center">
 <sub>
 <img  src="https://i.imgur.com/BnljAYJ.png"
