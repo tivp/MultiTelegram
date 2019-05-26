@@ -7,8 +7,9 @@
       width="70%">
 </h1>
 <p align="center">
-<a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/Uf73QMd.png"></a>
-<a href="https://www.paypal.me/tivp"><img alt="Donate" src="https://i.imgur.com/PfKLbZA.png"></a>
+<a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/ReabB0z.png"></a>
+<img alt="divider" style="height: auto;width: 3%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQin1SJa4g7g2SqNDy3JF5BQSbQNyHR5_1WMqPE06GdaXbMBuJG">
+<a href="https://www.paypal.me/tivp"><img alt="Donate" src="https://i.imgur.com/LMlKr4w.png"></a>
 	
 ## Release History
 
