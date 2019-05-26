@@ -1,6 +1,6 @@
 # MultiTelegram
 * Telegram with multi account support. Use Telegram Desktop for Windows with different users.
-##
+
 <p align="center">
 <a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/Uf73QMd.png"></a>
 <img height="auto" width="3%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQin1SJa4g7g2SqNDy3JF5BQSbQNyHR5_1WMqPE06GdaXbMBuJG">
@@ -26,9 +26,9 @@ See the [releases pages](https://github.com/TiVP/MultiTelegram/releases) for a h
 	
 ## Credits
 
-* Some icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com) licensed under a [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0).
+Some icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com) licensed under a [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0).
 
-* The TelegramDesktop can be found [here](https://github.com/telegramdesktop/tdesktop).
+The TelegramDesktop can be found [here](https://github.com/telegramdesktop/tdesktop).
 
 ## License
 
