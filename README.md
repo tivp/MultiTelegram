@@ -1,39 +1,41 @@
-# MultiTelegram
-* Telegram with multi account support. Use Telegram Desktop for Windows with different users.
-
+<p align="center"><img height="auto" width="64%" src="./assets/cover.png"></p>
+<h2 align="center"><b>MultiTelegram</b></h2>
+<h4 align="center">Use Telegram Desktop for Windows with different user folders.</h4>
 <p align="center">
-<img height="auto" width="64%" src="https://user-images.githubusercontent.com/50901220/58152248-0c6e1880-7c3a-11e9-9251-5c37ffbe02e7.png">
+<a href="https://github.com/TiVP/MultiTelegram/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TiVP/MultiTelegram?label=License&style=flat" alt="license"></a>
+<a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img src="https://img.shields.io/github/v/release/TiVP/MultiTelegram?label=Latest version&style=flat" alt="latestreleases"></a>
+<a href="#"><img src="https://img.shields.io/github/downloads/TiVP/MultiTelegram/total?label=Downloads&style=flat" alt="alldownloads"></a>
+</p>
+<hr>
+<p align="center"><a href="#description">Description</a> &bull; <a href="#features">Features</a> &bull; <a href="#screenshots">Screenshots</a> &bull; <a href="#release-history">Release History</a> &bull; <a href="#credits">Credits</a> &bull; <a href="#license">License</a></p>
+<hr>
 
-<a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img alt="Download" src="https://i.imgur.com/Uf73QMd.png"></a>
-<img height="auto" width="3%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQin1SJa4g7g2SqNDy3JF5BQSbQNyHR5_1WMqPE06GdaXbMBuJG">
-<a href="https://www.paypal.me/tivp"><img alt="Donate" src="https://i.imgur.com/WAn4bbI.png"></a></p>
-	
+## Description
+
+Manage Telegram Desktop user folders containing your Telegram sessions with a handy manager.
+
+### Features
+
+* Use different user folders for Telegram Desktop.
+* Use up to 32 profiles (User Folders).
+* Create new sessions using new user folders.
+
+## Screenshots
+<img src=./assets/screenshot-01.png height=15%>
+
 ## Release History
 
-See the [releases pages](https://github.com/TiVP/MultiTelegram/releases) for a history of releases and highlights for each release.
+Check [here](https://github.com/TiVP/MultiTelegram) the release pages for the history and highlights of each release.
 
-## Features
+The latest stable version can be found [here](https://github.com/TiVP/MultiTelegram/releases/latest).
 
-* Use different users for Telegram Desktop.
- * Use up to 32 profiles
- * Create new sessions
-* GUI easy to use with a variety of functions, this already contains a version of portable Telegram.
-
-<h1 align="center">
-<sub>
-<img  src="https://i.imgur.com/BnljAYJ.png"
-      height="auto"
-      width="70%">
-</h1>
-	
 ## Credits
 
-Some icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com) licensed under a [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0).
+Icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com) licensed under [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0).
 
-The TelegramDesktop can be found [here](https://github.com/telegramdesktop/tdesktop).
+Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
 
 ## License
 
-MultiTelegram is licensed under GNU General Public License - see the [LICENSE](https://github.com/TiVP/MultiTelegram/blob/master/LICENSE).
-        
+MultiTelegram is licensed under the GNU General Public License 3.0 - see the license [here](https://github.com/TiVP/MultiTelegram/blob/main/LICENSE) for details.
 
