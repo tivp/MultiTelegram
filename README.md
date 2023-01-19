@@ -1,6 +1,6 @@
 
-<p align="center"><img height="auto" width="40%" src="./assets/cover.png"></p>
-<h2 align="center"><b>MultiTelegram</b></h2>
+<p align="center"><img width="50%" src="./assets/cover.png"></p>
+<h2 align="center"><b></b></h2>
 <h4 align="center">Use Telegram Desktop for Windows with different user folders.</h4>
 <p align="center">
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/TiVP/MultiTelegram?label=License&style=flat" alt="license"></a>
@@ -37,6 +37,6 @@ Icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com) licensed under [Crea
 Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
 
 ## License
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-MultiTelegram is licensed under the GNU General Public License 3.0 - see the license [here](./LICENSE) for details.
-
+MultiTelegram is free software: you can use it, study it, share it and improve it at will. In particular, you can redistribute it and/or modify it under the terms of the GNU General Public License 3.0 - see the license [here](./LICENSE) for more details.
