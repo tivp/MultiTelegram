@@ -1,4 +1,5 @@
-<p align="center"><img height="auto" width="64%" src="./assets/cover.png"></p>
+
+<p align="center"><img height="auto" width="40%" src="./assets/cover.png"></p>
 <h2 align="center"><b>MultiTelegram</b></h2>
 <h4 align="center">Use Telegram Desktop for Windows with different user folders.</h4>
 <p align="center">
@@ -21,7 +22,7 @@ Manage Telegram Desktop user folders containing your Telegram sessions with a ha
 * Create new sessions using new user folders.
 
 ## Screenshots
-<img src=./assets/screenshot-01.png height=15%>
+<img src=./assets/screenshot-01.png height=300px>
 
 ## Release History
 
