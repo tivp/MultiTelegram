@@ -1,6 +1,6 @@
 
 <p align="center"><img width="50%" src="./assets/cover.png"></p>
-<h2 align="center"><b></b></h2>
+<h2 align="center"><b>MultiTelegram</b></h2>
 <h4 align="center">Use Telegram Desktop for Windows with different user folders.</h4>
 <p align="center">
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/TiVP/MultiTelegram?label=License&style=flat" alt="license"></a>
