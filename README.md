@@ -2,7 +2,7 @@
 <h2 align="center"><b>MultiTelegram</b></h2>
 <h4 align="center">Use Telegram Desktop for Windows with different user folders.</h4>
 <p align="center">
-<a href="https://github.com/TiVP/MultiTelegram/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TiVP/MultiTelegram?label=License&style=flat" alt="license"></a>
+<a href="https://github.com/TiVP/MultiTelegram/blob/master/LICENSE><img src="https://img.shields.io/github/license/TiVP/MultiTelegram?label=License&style=flat" alt="license"></a>
 <a href="https://github.com/TiVP/MultiTelegram/releases/latest"><img src="https://img.shields.io/github/v/release/TiVP/MultiTelegram?label=Latest version&style=flat" alt="latestreleases"></a>
 <a href="#"><img src="https://img.shields.io/github/downloads/TiVP/MultiTelegram/total?label=Downloads&style=flat" alt="alldownloads"></a>
 </p>
