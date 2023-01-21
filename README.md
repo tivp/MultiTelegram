@@ -1,6 +1,6 @@
 
 <p align="center"><img width="50%" src="./assets/cover.png"></p>
-<h2 align="center"><b>MultiTelegram</b></h2>
+<h2 align="center"></h2>
 <h4 align="center">Use Telegram Desktop for Windows with different user folders.</h4>
 <p align="center">
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/TiVP/MultiTelegram?label=License&style=flat" alt="license"></a>
@@ -21,7 +21,7 @@ Manage Telegram Desktop user folders containing your Telegram sessions with a ha
 * Use up to 32 profiles (User Folders).
 * Create new sessions using new user folders.
 
-## Screenshots
+### Screenshots
 <img src=./assets/screenshot-01.png height=300px>
 
 ## Release History
