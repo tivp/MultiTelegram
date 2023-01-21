@@ -34,7 +34,7 @@ The latest stable version can be found [here](./releases/latest).
 
 Icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com) licensed under [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0).
 
-Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
+<a href="https://web.telegram.org" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> & Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
 
 ## License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
