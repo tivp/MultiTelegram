@@ -30,7 +30,7 @@ Download here 👇 and check out the release pages [here](https://github.com/var
 
 * <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="telegram" align=center width=16></a> Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
 
-## 📃 License
+## ⚖️ License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 MultiTelegram is free software: you can use it, study it, share it and improve it at will. In particular, you can redistribute it and/or modify it under the terms of the GNU General Public License 3.0 - see the license [here](./LICENSE) for more details.
