@@ -6,7 +6,7 @@
   <a href="#-license">
     <img src="https://img.shields.io/github/license/vargastomas/MultiTelegram?label=License&labelColor=0c0d10&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjRkZGIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTMgNiAzIDFtMCAwLTMgOWE1LjAwMiA1LjAwMiAwIDAgMCA2LjAwMSAwTTYgN2wzIDlNNiA3bDYtMm02IDIgMy0xbS0zIDEtMyA5YTUuMDAyIDUuMDAyIDAgMCAwIDYuMDAxIDBNMTggN2wzIDltLTMtOS02LTJtMC0ydjJtMCAxNlY1bTAgMTZIOW0zIDBoMyIvPjwvc3ZnPg==" alt="license">
   </a><br><br>
-  🎛️ Panel for using <a href="#"><img href="#" src="./assets/telegram.svg" alt="telegram" align=center width=16></a> Telegram Desktop with different user folders.<br>
+  🎛️ Panel for using <a href="#"> Telegram Desktop with different user folders.<br>
   <img src=./assets/screenshot-01.png width=50%><br><br>
 </div>
 
