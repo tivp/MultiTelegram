@@ -10,6 +10,8 @@
   <img src=./assets/screenshot-01.png width=50%><br><br>
 </div>
 
+<hr>
+
 ## ✨ About
 Manage user folders containing your Telegram sessions with a handy manager.
 
@@ -18,10 +20,14 @@ Manage user folders containing your Telegram sessions with a handy manager.
 * Use up to 32 profiles (User Folders).
 * Create new sessions using new user folders.
 
+<hr>
+
 ## 📥 Installation
 Download here 👇 and check out the release pages [here](https://github.com/vargastomas/MultiTelegram/releases) for the history and highlights of each release.
 
 <a href="https://github.com/vargastomas/Tirabolas-3000/releases/latest"><img src="https://img.shields.io/badge/Windows%20(7+)-3a71c1?&logo=Windows11&labelColor=0c0d10&color=0078D6&style=for-the-badge" alt="latestreleases"></a>
+
+<hr>
 
 ## ✍️ Credits for
 
@@ -29,6 +35,8 @@ Download here 👇 and check out the release pages [here](https://github.com/var
 
 
 * <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="telegram" align=center width=16></a> Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
+
+<hr>
 
 ## ⚖️ License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
