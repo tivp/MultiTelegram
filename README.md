@@ -25,7 +25,7 @@ Manage user folders containing your Telegram sessions with a handy manager.
 
 * Icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com) licensed under [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0).
 
-* <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="telegram" align=center width=16></a> Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
+* Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
 
 <hr>
 
