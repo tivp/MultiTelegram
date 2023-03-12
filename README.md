@@ -1,7 +1,6 @@
-<img align="right" width="50%" src="./assets/cover.png"><br>
+<img align="right" width="30%" src="./assets/cover.png"><br>
 # MultiTelegram
 Panel for using Telegram Desktop with different user folders.
-
 ### [Download the latest release here!](https://github.com/vargastomas/Tirabolas-3000/releases/latest)
 <div>
   <a href="#-installation">
@@ -28,10 +27,7 @@ Manage user folders containing your Telegram sessions with a handy manager.
 
 * Icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com) licensed under [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0).
 
-
 * <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="telegram" align=center width=16></a> Telegram Desktop app, which you can download [here](https://github.com/telegramdesktop/tdesktop).
-
-<hr>
 
 ## ⚖️ License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
