@@ -1,5 +1,5 @@
-<img align="right" width="30%" src="./assets/cover.png"><br>
 # MultiTelegram
+<img align="right" width="20%" src="./assets/cover.png"><br>
 Panel for using Telegram Desktop with different user folders.
 ### [Download the latest release here!](https://github.com/vargastomas/Tirabolas-3000/releases/latest)
 <div>
