@@ -2,7 +2,8 @@
 # MultiTelegram
 Panel for using Telegram Desktop with different user folders.
 ### [Download the latest release here!](https://github.com/vargastomas/Tirabolas-3000/releases/latest)
-> 
+
+Read the [source code here](https://github.com/vargastomas/Tirabolas-3000/releases/latest).
 
 <div>
   <a href="#-installation">
