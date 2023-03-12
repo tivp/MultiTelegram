@@ -13,8 +13,6 @@ Panel for using Telegram Desktop with different user folders.
   </a><br>
 </div>
 
-<hr>
-
 ## ✨ Summary
 Manage user folders containing your Telegram sessions with a handy manager.
 
